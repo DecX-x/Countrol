@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground: 0, 0%, 100%;
+  --background: 0, 0%, 4%;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-white;
+  }
+}
+
+.glass-effect {
+  @apply backdrop-blur-md bg-white/10 border border-white/20;
+}
+
+.gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-from to-primary-to;
+}
+
+.card-hover {
+  @apply transition-all duration-300 hover:scale-105 hover:shadow-xl;
+}
+
+.button-hover {
+  @apply transition-all duration-200 hover:scale-105 active:scale-95;
+}
