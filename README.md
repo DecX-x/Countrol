@@ -274,20 +274,4 @@ interface User {
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Alibaba Cloud** for providing powerful AI models and cloud infrastructure
-- **LangChain Team** for the excellent AI agent framework
-- **MongoDB** for reliable database solutions
-- **Vercel** for seamless deployment platform
-
-## 📞 Support
-
-For support and questions:
-- 📧 Email: support@countrol.ai
-- 📱 Documentation: [docs.countrol.ai](https://docs.countrol.ai)
-- 🐛 Issues: [GitHub Issues](https://github.com/your-repo/issues)
-
----
-
 **Countrol** - Taking control of your finances with AI 🚀💰
