@@ -57,11 +57,8 @@ Countrol is an intelligent financial management application powered by advanced 
 
 ### AI Agent Workflow
 
-```
-User Input → Agent Router → Tool Selection → Execution → Response
-     ↓            ↓             ↓            ↓          ↓
-   Text/Image → Qwen Models → Financial Tools → Database → User
-```
+![image](https://github.com/user-attachments/assets/bbad4852-145f-44d3-9729-753429868773)
+
 
 ### Core Components
 
