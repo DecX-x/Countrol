@@ -245,30 +245,7 @@ interface User {
 - **MongoDB Security**: Parameterized queries prevent injection
 - **API Rate Limiting**: Prevents abuse and ensures fair usage
 
-## 🎯 Future Enhancements
 
-### Planned Features
-- [ ] Multi-currency support
-- [ ] Budget planning and alerts
-- [ ] Investment tracking
-- [ ] Financial goal setting
-- [ ] Bank account integration
-- [ ] Expense prediction models
-
-### Technical Improvements
-- [ ] Offline support with PWA
-- [ ] Real-time collaboration
-- [ ] Advanced analytics dashboard
-- [ ] Mobile application (React Native)
-- [ ] Voice input support
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
 
 ## 📝 License
 
