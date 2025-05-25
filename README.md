@@ -94,7 +94,7 @@ Countrol is an intelligent financial management application powered by advanced 
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/DecX-x/Countrol
 cd countrol
 ```
 
